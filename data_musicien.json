@@ -20,10 +20,8 @@
         "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
       },
       "location": {
-        "street": "9278 new road",
         "city": "Tours",
         "state": "France",
-        "postcode": 44000,
         "coordinates": {
           "latitude": 47.39501935922057,
           "longitude": 0.681839035582598
